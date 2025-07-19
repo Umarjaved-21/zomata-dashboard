@@ -38,7 +38,7 @@ Zomato operates in **822 cities**, serving **78K active users**, and processing 
 ## 📎 How to Use
 
 1. Clone the repository  
-2. Open the `.pbix` file in Power BI Desktop (if available)  
+2. Open the `.pbix` file in Power BI Desktop (if available)  : https://drive.google.com/file/d/1WODMLn1scXOjfkJWCzQMM9r2xj1QMvUy/view?usp=drive_link
 3. Explore or extend the visuals as needed
 
 ---
