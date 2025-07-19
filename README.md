@@ -35,12 +35,6 @@ Zomato operates in **822 cities**, serving **78K active users**, and processing 
 
 ---
 
-## 📄 Dashboard Preview
-
-[👉 View Full Dashboard (PDF)](./zomato%20dashboard.pdf)
-
----
-
 ## 📎 How to Use
 
 1. Clone the repository  
@@ -52,8 +46,8 @@ Zomato operates in **822 cities**, serving **78K active users**, and processing 
 ## 🙋‍♂️ Author
 
 **Umar Javed**  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com)  
-For questions or collaborations: `your-email@example.com`
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/umar-javed-5b81a8248)  
+For questions or collaborations: `umarjavedaiml21@gmail.com`
 
 ---
 
